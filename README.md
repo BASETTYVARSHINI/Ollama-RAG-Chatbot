@@ -4,5 +4,4 @@ Built using Ollama, an open-source framework for running large language models (
 Make sure Ollama is running:
 ollama list
 
-If no models are installed, download a model:llama 3.1 which i prefered
-ollama pull llama3.1
+If no models are installed, download a model - llama 3.1 which i prefered : ollama pull llama3.1
